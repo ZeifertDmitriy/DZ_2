@@ -1,0 +1,15 @@
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\dz_2.csproj.AssemblyReference.cache
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\dz_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\dz_2.AssemblyInfoInputs.cache
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\dz_2.AssemblyInfo.cs
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\dz_2.csproj.CoreCompileInputs.cache
+D:\Учеба\git\C#\S2\dz_2\bin\Debug\net6.0\dz_2.exe
+D:\Учеба\git\C#\S2\dz_2\bin\Debug\net6.0\dz_2.deps.json
+D:\Учеба\git\C#\S2\dz_2\bin\Debug\net6.0\dz_2.runtimeconfig.json
+D:\Учеба\git\C#\S2\dz_2\bin\Debug\net6.0\dz_2.dll
+D:\Учеба\git\C#\S2\dz_2\bin\Debug\net6.0\dz_2.pdb
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\dz_2.dll
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\refint\dz_2.dll
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\dz_2.pdb
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\dz_2.genruntimeconfig.cache
+D:\Учеба\git\C#\S2\dz_2\obj\Debug\net6.0\ref\dz_2.dll
